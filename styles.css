@@ -1,0 +1,31 @@
+h1{
+  color: rgb(33, 33, 33);
+  background-color: rgb(124, 105, 0);
+  text-align: center;
+  text-size-adjust: 40px;
+  padding: 60px;
+  height: 50px;
+  margin-bottom: 0%;
+
+}
+body{
+  background-color: rgb(0, 220, 0);
+  /* margin-left: 10px; */
+}
+form{
+  color: darkgreen;
+  background-color: chocolate;
+  height: 250px;
+  text-align:initial;
+  width:auto;
+  text-size-adjust: 45px;
+  padding-left: 10px;
+  margin-top: 0%;
+}
+
+label {
+  font-size: 1.4em
+}
+
+
+
